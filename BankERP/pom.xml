@@ -10,5 +10,6 @@
     </properties>
   <modules>
     <module>CRM</module>
+    <module>TransactionManager</module>
   </modules>
 </project>
