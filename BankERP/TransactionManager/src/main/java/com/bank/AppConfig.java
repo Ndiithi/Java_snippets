@@ -7,7 +7,7 @@ package com.bank;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "net.viralpatel.spring")
+@ComponentScan(basePackages = "com.bank")
 public class AppConfig {
     
 }

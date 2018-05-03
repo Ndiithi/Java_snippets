@@ -13,6 +13,8 @@
     <modules>
         <module>CRM</module>
         <module>TransactionManager</module>
+        <module>banking_solution</module>
+        <module>JsonServlet</module>
     </modules>
   
     <dependencies>
